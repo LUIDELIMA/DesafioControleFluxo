@@ -1,18 +1,28 @@
-## Getting Started
+## Trilha Java Básico DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Apresentar os conceitos e explorar os tipos de fluxos condicionais, excepcionais e de repetição em uma aplicação Java.
 
-## Folder Structure
+[Digital Innovation One](https://www.dio.me/).
 
-The workspace contains two folders by default, where:
+## Controle de Fluxo - Desafio - Java
+O sistema recebe dois parâmetros via terminal que representarão dois números inteiros, com estes dois números deverá se obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Se você passar os números 12 e 30, logo teremos uma interação (for) com 18 ocorrências para imprimir os números, exemplo: "Imprimindo o número 1", "Imprimindo o número 2" e assim por diante.
+Se o primeiro parâmetro for MAIOR que o segundo parâmetro, você deverá lançar a exceção customizada chamada de ParametrosInvalidosException com a segunda mensagem: "O segundo parâmetro deve ser maior que o primeiro"
+## Tecnologias e Ferramentas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
+## Minhas Skills
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
 
-## Dependency Management
+### Contatos:
+<div>
+<a href = "mailto:albinomarques01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/albino-marques-22576a231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="https://wa.me/5554936181097" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/albino_marques01" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.instagram.com/albino_marques01/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
